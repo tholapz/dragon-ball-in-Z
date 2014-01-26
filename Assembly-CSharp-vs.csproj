@@ -46,8 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BulletController.cs" />
-     <Compile Include="Assets\Mover.cs" />
+     <Compile Include="Assets\BarrelController.cs" />
+     <Compile Include="Assets\_scripts\BulletController.cs" />
+     <Compile Include="Assets\_scripts\GameController.cs" />
+     <Compile Include="Assets\_scripts\Mover.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Library\ScriptAssemblies\Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
